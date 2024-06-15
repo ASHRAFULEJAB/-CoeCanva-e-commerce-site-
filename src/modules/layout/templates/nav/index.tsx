@@ -24,7 +24,7 @@ export default async function Nav() {
               className="txt-compact-xlarge-plus hover:text-ui-fg-base uppercase"
               data-testid="nav-store-link"
             >
-              Medusa Store
+              CodeCanva Shopping Center
             </LocalizedClientLink>
           </div>
 
@@ -45,7 +45,7 @@ export default async function Nav() {
                 href="/account"
                 data-testid="nav-account-link"
               >
-                Account
+                Login
               </LocalizedClientLink>
             </div>
             <Suspense
