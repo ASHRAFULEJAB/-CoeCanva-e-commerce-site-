@@ -2,6 +2,9 @@
 
 This project is an e-commerce site built with MedusaJS Framework and Next.js. It includes features like product listing, product details, shopping cart, checkout process, and user authentication.
 
+* Vedio Link
+    *  https://drive.google.com/file/d/16uospLfyBGUM4MItSZsMtHjgqnrTFS-5/view?usp=sharing 
+
 ## Setup
 
 1. Clone the repository:
